@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+.mvn
+**/.mvn
+**/target
+**/HELP.md
+**/compiler.xml
+**/mvnw
+**/mvnw.cmd
+**/*.iml
+**/*.iws
+**/*.iml
+**/*.ipr
